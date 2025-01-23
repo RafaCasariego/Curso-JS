@@ -1,6 +1,6 @@
 
 /*HOISTING
-Es un comportamiento de JS la cual se encarga de llevar las declaraciones de variables y 
+Es un comportamiento de JS el cual se encarga de llevar las declaraciones de variables y 
 funciones al inicio del archivo, es como si las "elevara". Esto trae comportamientos distintos
 para cada tipo de declaración (var, let, const y function).
 */
