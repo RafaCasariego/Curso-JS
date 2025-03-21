@@ -64,7 +64,7 @@ Object.assign(Animal.prototype, EatableMixin, SleepableMixin);
 // ✅ Prueba
 const perro = new Animal("Rocky");
 perro.eat();   // "Rocky está comiendo."
-perro.sleep(); // "Rocky está durmiendo."
+perro.sleep(); // "Rocky está durmiendo"
 
 
 // ─────────────────────
