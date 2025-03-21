@@ -150,3 +150,4 @@ console.log(`
 
 🛡️ La herencia nos ayuda a estructurar mejor nuestro código y evitar duplicación.
 `);
+
